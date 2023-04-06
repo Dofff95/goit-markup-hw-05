@@ -111,12 +111,10 @@ button {
   color: var(--primary-color);
   display: flex;
   align-items: center;
-  /* transform: transition ; */
 }
 .link-menu:hover,
 .link-menu:focus {
   color: var(--accent-color);
-  /* transition: 250ms cubic-bezier(0.4, 0, 0.2, 1); */
 }
 .link-menu {
   color: var(--primary-color);
