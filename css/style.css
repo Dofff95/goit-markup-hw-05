@@ -457,9 +457,7 @@ button {
   background-color: var(--web-color);
   color: var(--primary-color-in-dark-them);
   line-height: 1.5;
-  padding-top: 40px;
-  padding-left: 32px;
-  padding-right: 32px;
+  padding: 40px 32px;
   position: absolute;
   left: 0;
   top: 0;
